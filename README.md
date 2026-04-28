@@ -8,7 +8,7 @@ attrition patterns across 1,470 employees.
 ## Dashboard Preview
 
 ### Page 1 — Attrition Overview
-![Attrition Overview](images/page1_overview.png)
+![Attrition Overview](images/page1_overview.PNG)
 
 ### Page 2 — Attrition Deep Dive
 ![Attrition Deep Dive](images/page2_deepdive.png)
