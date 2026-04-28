@@ -21,6 +21,11 @@ attrition patterns across 1,470 employees.
 
 ---
 
+### Model View
+![Model View](images/ModelHRSchema.PNG)
+
+---
+
 ## Dashboard Pages
 
 | Page | Focus |
