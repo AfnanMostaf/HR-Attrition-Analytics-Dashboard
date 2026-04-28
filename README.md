@@ -11,13 +11,13 @@ attrition patterns across 1,470 employees.
 ![Attrition Overview](images/page1_overview.PNG)
 
 ### Page 2 — Attrition Deep Dive
-![Attrition Deep Dive](images/page2_deepdive.png)
+![Attrition Deep Dive](images/page2_deepdive.PNG)
 
 ### Page 3 — Satisfaction & Performance
-![Satisfaction & Performance](images/page3_satisfaction.png)
+![Satisfaction & Performance](images/page3_satisfaction.PNG)
 
 ### Page 4 — Compensation & Growth
-![Compensation & Growth](images/page4_compensation.png)
+![Compensation & Growth](images/page4_compensation.PNG)
 
 ---
 
